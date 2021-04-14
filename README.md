@@ -9,3 +9,5 @@ Sistem web ini hasil modifikasi saya dari program Pak Sandhika Galih <a href="ht
 - <a href="https://github.com/puikinsh/CoolAdmin">Template Cool Admin</a>
 - Bootstrap 4.1
 - PHP 7.4
+- CSRF(Cross-Site Request Forgery) Aktif
+- XSS Aktif
